@@ -1,0 +1,1 @@
+worker: python Covid-19Bot.py
